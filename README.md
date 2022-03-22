@@ -14,17 +14,17 @@ https://github.com/tony9402/baekjoon/blob/main/picked.md
 
 **PR 이름 :**
 
-      필수-[문제번호] 문제이름 (자기이름)
+      필수-[문제번호] 문제이름
 
       또는
 
-      선택-[문제번호] 문제이름 (자기이름)
+      선택-[문제번호] 문제이름
 
 **PR 내용 :**
 
       구현어떻게 하였는지
 
-<img width="979" alt="스크린샷 2022-03-22 오후 7 14 19" src="https://user-images.githubusercontent.com/81306489/159457985-c33b2472-5d5e-4759-8e4d-466b5800a044.png">
+<img width="790" alt="스크린샷 2022-03-22 오후 7 08 15" src="https://user-images.githubusercontent.com/81306489/159456879-4e6fbb81-756f-4f08-89ed-2d8603e9cbdc.png">
 
 ---
 
