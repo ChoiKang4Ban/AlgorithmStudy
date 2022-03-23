@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Main_9019 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int T = Integer.parseInt(br.readLine());
@@ -13,56 +13,57 @@ public class Main {
 		StringBuilder sb = new StringBuilder();
 		for (int t = 1; t <= T; t++) {
 			st = new StringTokenizer(br.readLine());
-			String asis = st.nextToken();
-			String tobe = st.nextToken();
+//			String asis = st.nextToken();
+			int asis = Integer.parseInt(st.nextToken());
+//			String tobe = st.nextToken();
+			int tobe = Integer.parseInt(st.nextToken());
 			sb.append(solve(asis, tobe)).append("\n");
 		}
 		System.out.println(sb);
 	}
 
-	static String solve(String asis, String tobe) {
-		Queue<String> q = new LinkedList<String>();
+	static String solve(int asis, int tobe) {
+		Queue<Integer> q = new LinkedList<Integer>();
 		boolean[] visited = new boolean[10000];
+		String[] result = new String[10000];
 		q.offer(asis);
-		q.offer("");
+		visited[asis]=true;
+		result[asis] = "";
 		while (!q.isEmpty()) {
-			String str = q.poll();
-			String ans = q.poll();
-			if (str.equals(tobe))
-				return ans;
-			while (str.length() < 4) {
-				str = "0" + str;
-			}
-			int D = ((Integer.parseInt(str) * 2) % 10000);
+			int str = q.poll();
+			if (str == tobe)
+				return result[str];
+
+			int D = (str * 2) % 10000;
 			if (!visited[D]) {
-				q.add(Integer.toString(D));
-				q.add(ans + "D");
+				q.add(D);
+				result[D] = result[str] + "D";
 				visited[D] = true;
 			}
-			int S = (Integer.parseInt(str) - 1);
+
+			int S = (str) - 1;
 			if (S == -1)
 				S = 9999;
 			if (!visited[S]) {
-				q.add(Integer.toString(S));
-				q.add(ans + "S");
+				q.add(S);
+				result[S] = result[str] + "S";
 				visited[S] = true;
 			}
-			int L = Integer.parseInt(str.substring(1, str.length()) + str.substring(0, 1));
+			int L = (str % 1000) * 10 + str / 1000;
 			if (!visited[L]) {
-				q.add(Integer.toString(L));
-				q.add(ans + "L");
+				q.add(L);
+				result[L] = result[str] + "L";
 				visited[L] = true;
 			}
-			int R = Integer
-					.parseInt(str.substring(str.length() - 1, str.length()) + str.substring(0, str.length() - 1));
+			int R = (str % 10) * 1000 + str / 10;
 			if (!visited[R]) {
-				q.add(Integer.toString(R));
-				q.add(ans + "R");
+				q.add(R);
+				result[R] = result[str] + "R";
 				visited[R] = true;
 			}
 
 		}
-		return "";
+		return result[tobe];
 	}
 
 }
