@@ -15,7 +15,7 @@ public class Main_1411 {
 		numbers = new int[2];
 		strs = new String[N];
 		for(int i=0;i<N;i++) {
-			strs[i] = br.readLine();
+			strs[i] = mapping(br.readLine());
 		}
 		
 		answer = 0;
@@ -27,10 +27,9 @@ public class Main_1411 {
 	public static void combi(int start, int cnt) {
 		if(cnt == 2) {
 			
-			if(mapping(strs[numbers[0]]).equals(mapping(strs[numbers[1]]))) {
+			if(strs[numbers[0]].equals(strs[numbers[1]])) {
 				answer++;
 			}
-			
 			return;
 		}
 		
