@@ -14,7 +14,9 @@ https://github.com/tony9402/baekjoon/blob/main/picked.md
 
 **PR 이름 :**
 
-      필수-[문제번호] 문제이름
+      필수-[문제번호] 문제이름 (자기이름) (1문제만 풀었을때)
+
+      [문제번호] 문제이름,[문제번호] 문제이름 (자기이름) (2문제 다 풀었을때 (PR 수정 부탁드릴게요!))
 
       또는
 
@@ -32,7 +34,14 @@ https://github.com/tony9402/baekjoon/blob/main/picked.md
 
 ## 2022/03/22
 
-|                                       난이도                                       |                     번호                     |                      문제 이름                      | 진호 | 현명 | 진합 | 세환 |
-| :--------------------------------------------------------------------------------: | :------------------------------------------: | :-------------------------------------------------: | :--: | :--: | :--: | :--: |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [1411](https://www.acmicpc.net/problem/1411) | [비슷한 단어](https://www.acmicpc.net/problem/1411) |      |      |      |      |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9019](https://www.acmicpc.net/problem/9019) |    [DSLR](https://www.acmicpc.net/problem/9019)     |      |      |      |      |
+|                                       난이도                                       |                     번호                     |                      문제 이름                      |        진호        |        현명        |        진합        | 세환 |
+| :--------------------------------------------------------------------------------: | :------------------------------------------: | :-------------------------------------------------: | :----------------: | :----------------: | :----------------: | :--: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [1411](https://www.acmicpc.net/problem/1411) | [비슷한 단어](https://www.acmicpc.net/problem/1411) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9019](https://www.acmicpc.net/problem/9019) |    [DSLR](https://www.acmicpc.net/problem/9019)     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      |
+
+## 2022/03/29
+
+|                                       난이도                                       |                      번호                      |                               문제 이름                                | 진호 | 현명 | 진합 | 세환 |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :--------------------------------------------------------------------: | :--: | :--: | :--: | :--: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [15787](https://www.acmicpc.net/problem/15787) | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) |      |      |      |      |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11052](https://www.acmicpc.net/problem/11052) |         [카드 구매하기](https://www.acmicpc.net/problem/11052)         |      |      |      |      |
