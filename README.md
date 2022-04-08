@@ -38,3 +38,8 @@ https://github.com/tony9402/baekjoon/blob/main/picked.md
 | :--------------------------------------------------------------------------------: | :------------------------------------------: | :-------------------------------------------------: | :--: | :--: | :--: | :--: |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [1411](https://www.acmicpc.net/problem/1411) | [비슷한 단어](https://www.acmicpc.net/problem/1411) |      |      |      |      |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9019](https://www.acmicpc.net/problem/9019) |    [DSLR](https://www.acmicpc.net/problem/9019)     |      |      |      |      |
+
+
+
+pr check
+
