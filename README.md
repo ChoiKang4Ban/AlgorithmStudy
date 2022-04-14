@@ -48,7 +48,14 @@ https://github.com/tony9402/baekjoon/blob/main/picked.md
 
 ## 2022/04/05 (3주차)
 
-|                                       난이도                                       |                      번호                      |                          문제 이름                          | 진호 | 현명 | 진합 | 세환 |
-| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :---------------------------------------------------------: | :--: | :--: | :--: | :--: |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |  [1912](https://www.acmicpc.net/problem/1912)  |       [연속합](https://www.acmicpc.net/problem/1912)        |      |      |      |      |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |      |      |      |      |
+|                                       난이도                                       |                      번호                      |                          문제 이름                          |        진호        |        현명        |        진합        | 세환 |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :---------------------------------------------------------: | :----------------: | :----------------: | :----------------: | :--: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |  [1912](https://www.acmicpc.net/problem/1912)  |       [연속합](https://www.acmicpc.net/problem/1912)        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      |
+
+## 2022/04/14 (4주차)
+
+|                                       난이도                                       |                      번호                      |                         문제 이름                         | 진호 | 현명 | 진합 | 세환 |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------------------: | :--: | :--: | :--: | :--: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11265](https://www.acmicpc.net/problem/11265) | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265) |      |      |      |      |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16953](https://www.acmicpc.net/problem/16953) |      [A → B](https://www.acmicpc.net/problem/16953)       |      |      |      |      |
