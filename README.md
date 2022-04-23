@@ -55,7 +55,14 @@ https://github.com/tony9402/baekjoon/blob/main/picked.md
 
 ## 2022/04/14 (4주차)
 
-|                                       난이도                                       |                      번호                      |                         문제 이름                         | 진호 | 현명 | 진합 | 세환 |
-| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------------------: | :--: | :--: | :--: | :--: |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11265](https://www.acmicpc.net/problem/11265) | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265) |      |      |      |      |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16953](https://www.acmicpc.net/problem/16953) |      [A → B](https://www.acmicpc.net/problem/16953)       |      |      |      |      |
+|                                       난이도                                       |                      번호                      |                         문제 이름                         |        진호        |        현명        |        진합        |        세환        |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11265](https://www.acmicpc.net/problem/11265) | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16953](https://www.acmicpc.net/problem/16953) |      [A → B](https://www.acmicpc.net/problem/16953)       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+
+## 2022/04/19 (5주차)
+
+|                                       난이도                                       |                     번호                     |                      문제 이름                       | 진호 | 현명 | 진합 | 세환 |
+| :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: | :--: | :--: | :--: | :--: | --- |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [2644](https://www.acmicpc.net/problem/2644) |   [촌수계산](https://www.acmicpc.net/problem/2644)   |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |      |      |      |      |     |
