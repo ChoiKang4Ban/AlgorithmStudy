@@ -84,7 +84,16 @@ https://github.com/tony9402/baekjoon/blob/main/picked.md
 
 ### 프로그래머스
 
-| 난이도 | 문제 이름 | 진호 | 현명 | 진합 | 세환 |
-| :----: | :-------: | :--: | :--: | :--: | :--: |
-|  LV 2  |   위장    |      |      |      |      |
-|  LV 3  | 네트워크  |      |      |      |      |
+| 난이도 | 문제 이름 |        진호        |        현명        |        진합        | 세환 |
+| :----: | :-------: | :----------------: | :----------------: | :----------------: | :--: |
+|  LV 2  |   위장    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      |
+|  LV 3  | 네트워크  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      |
+
+## 2022/05/10 (8주차)
+
+### 프로그래머스
+
+| 난이도 |                               문제 이름                                | 진호 | 현명 | 진합 | 세환 |
+| :----: | :--------------------------------------------------------------------: | :--: | :--: | :--: | :--: |
+|  LV 2  | [메뉴리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |      |      |      |      |
+|  LV 3  | [추석트랙픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |      |      |      |      |
